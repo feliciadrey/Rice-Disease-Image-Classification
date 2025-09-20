@@ -1,5 +1,5 @@
 # Sehatin Padi - Rice Leaf Disease Classification
-This repository contains a Jupyter notebook (`Rice_Disease_Img_Classification.ipynb`) that implements a CNN-based model for automatic detection of rice leaf diseases using transfer learning. Multiple ImageNet-pretrained backbones were compared (EfficientNetB0, ResNet50, InceptionV3, MobileNetV2, DenseNet121).
+This repository contains a Jupyter notebook (`Rice Disease Classification.ipynb`) that implements a CNN-based model for automatic detection of rice leaf diseases using transfer learning. Multiple ImageNet-pretrained backbones were compared (EfficientNetB0, ResNet50, InceptionV3, MobileNetV2, DenseNet121).
 
 ---
 ## Dataset & Quick stats
